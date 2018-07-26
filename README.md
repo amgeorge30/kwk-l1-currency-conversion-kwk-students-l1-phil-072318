@@ -56,7 +56,7 @@ first, just copy and paste it into your ruby file and run it, see if you can
 figure out how this works by replacing `#code here` with something like `puts
 "hello world`.   
 
-```ruby
+ruby
 puts "How much money do you want to convert?"
 amount = gets.chomp().to_i
 
@@ -93,7 +93,7 @@ else
   puts "Invalid input, exiting..."
 end
 
-```
+
 
 You just used something called a switch-case without anyone having to teach it
 to you! If you're curious about what else you can do with these, you can read
